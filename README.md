@@ -627,7 +627,3 @@ LIMIT 10
 
 
 
-### **Entity Relationship Diagram (ERD)**
-![ERD](https://github.com/najirh/amazon_usa_project5/blob/main/erd.png)
-
----
