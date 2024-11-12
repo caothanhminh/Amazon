@@ -9,7 +9,7 @@
 
 ## **Project Overview**
 
-I have worked on analyzing a dataset of over 20,000 sales records from an Amazon-like e-commerce platform. This project involves extensive querying of customer behavior, product performance, and sales trends using PostgreSQL. Through this project, I have tackled various SQL problems, including revenue analysis, customer segmentation, and inventory management.
+I have worked on analyzing a dataset of over 20,000 sales records from Amazon, focusing on key performance metrics such as the North Star metric to drive customer-centric insights. This project involves extensive querying of customer behavior, product performance, and sales trends using PostgreSQL. Throughout the analysis, I tackled various SQL challenges, including revenue analysis, customer segmentation, and inventory management, delivering data-driven insights aligned with e-commerce growth and retention goals.
 
 
 ---
